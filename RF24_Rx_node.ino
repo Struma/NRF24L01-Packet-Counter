@@ -1,3 +1,9 @@
+/*
+/ This code is working on an arduino nano v3 with another NRF24Radio programmed to submit the packet (code oncomeing)
+/ This code relies on the RF24 Library
+/
+*/
+
 #include <SPI.h>
 #include <nRF24L01.h>
 #include <RF24.h>
